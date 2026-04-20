@@ -1,0 +1,16 @@
+# Compiled binaries
+csv-to-json-lines
+csv-to-json-lines.exe
+*.out
+
+# Conversion output (regenerated from the input CSV — don't commit)
+housesOutput.jl
+
+# Large input dataset (uncomment if you prefer not to commit it)
+# housesInput.csv
+
+# Editor / OS metadata
+.vscode/
+.idea/
+*.swp
+.DS_Store
