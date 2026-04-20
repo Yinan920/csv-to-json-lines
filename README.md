@@ -223,10 +223,7 @@ specifically, which is the right choice for this use case.
 
 ## Use of AI assistants
 
-*(Replace this section with an honest description of how you actually used
-AI help — the template below is a starting point.)*
-
-Anthropic's Claude was used as a pair-programming assistant for this
+ Claude was used as a pair-programming assistant for this
 assignment. Specifically, Claude helped to:
 
 - Discuss the overall design, particularly the use of `json.Encoder` to
